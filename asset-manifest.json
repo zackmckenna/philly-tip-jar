@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/philly-tip-jar/static/css/main.5f361e03.chunk.css",
-    "main.js": "/philly-tip-jar/static/js/main.b8150f6a.chunk.js",
-    "main.js.map": "/philly-tip-jar/static/js/main.b8150f6a.chunk.js.map",
+    "main.js": "/philly-tip-jar/static/js/main.c9bcc8b5.chunk.js",
+    "main.js.map": "/philly-tip-jar/static/js/main.c9bcc8b5.chunk.js.map",
     "runtime-main.js": "/philly-tip-jar/static/js/runtime-main.0e1051b6.js",
     "runtime-main.js.map": "/philly-tip-jar/static/js/runtime-main.0e1051b6.js.map",
-    "static/js/2.935e64b7.chunk.js": "/philly-tip-jar/static/js/2.935e64b7.chunk.js",
-    "static/js/2.935e64b7.chunk.js.map": "/philly-tip-jar/static/js/2.935e64b7.chunk.js.map",
+    "static/js/2.760585f0.chunk.js": "/philly-tip-jar/static/js/2.760585f0.chunk.js",
+    "static/js/2.760585f0.chunk.js.map": "/philly-tip-jar/static/js/2.760585f0.chunk.js.map",
     "index.html": "/philly-tip-jar/index.html",
-    "precache-manifest.bd3c663e717bb5f31bfebb8713e79a48.js": "/philly-tip-jar/precache-manifest.bd3c663e717bb5f31bfebb8713e79a48.js",
+    "precache-manifest.d2ecadfb5d150b25e9a4ec76b09c97f3.js": "/philly-tip-jar/precache-manifest.d2ecadfb5d150b25e9a4ec76b09c97f3.js",
     "service-worker.js": "/philly-tip-jar/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/philly-tip-jar/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.935e64b7.chunk.js.LICENSE.txt": "/philly-tip-jar/static/js/2.935e64b7.chunk.js.LICENSE.txt",
+    "static/js/2.760585f0.chunk.js.LICENSE.txt": "/philly-tip-jar/static/js/2.760585f0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/philly-tip-jar/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0e1051b6.js",
-    "static/js/2.935e64b7.chunk.js",
+    "static/js/2.760585f0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b8150f6a.chunk.js"
+    "static/js/main.c9bcc8b5.chunk.js"
   ]
 }

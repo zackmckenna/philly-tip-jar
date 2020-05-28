@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/philly-tip-jar/precache-manifest.bd3c663e717bb5f31bfebb8713e79a48.js"
+  "/philly-tip-jar/precache-manifest.d2ecadfb5d150b25e9a4ec76b09c97f3.js"
 );
 
 self.addEventListener('message', (event) => {
