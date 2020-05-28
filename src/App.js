@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import tipJarData from './data/tipjardata.json'
-import tipJarLocationData from './data/locations.js'
+import tipJarLocationData from './data/locationData.js'
 import TipJarNav from './components/TipJarNav'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import Button from 'react-bootstrap/Button'
